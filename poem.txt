@@ -1,4 +1,4 @@
-Roses are red
-Violets are blue
-Git is for coders
-And GitHub is too
+Roses are red,
+Violets are blue.
+Git is for coders,
+And GitHub is too.
