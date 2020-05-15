@@ -1,4 +1,7 @@
 Roses are red,
-Grasses are green.
-Git is for coders,
-And GitHub is mean.
+Violets are pink.
+
+(Intermission)
+
+Git is for coders.
+(And GitHub, I think?)
