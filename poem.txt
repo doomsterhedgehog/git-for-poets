@@ -1,4 +1,7 @@
 Roses are red,
 Violets are pink.
+
+(Intermission)
+
 Git is for coders.
 (And GitHub, I think?)
